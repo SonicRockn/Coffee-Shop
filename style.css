@@ -1,0 +1,36 @@
+body{
+    font-family: fantasy;
+    font-size: larger;
+    margin: center;
+    padding: 0;
+    color: rgb(7, 7, 7);
+    background-color: chocolate;
+}
+header{ font-family: fantasy;
+    text-align: center;
+    font-size:large;
+    margin:0;
+    padding:0;
+}
+nav ul{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+section h1{
+    text-align: center;
+    font-weight: bold;
+
+}
+main{
+    text-align: center;
+    font-family: fantasy;
+
+
+}
+
+footer{ 
+    text-align: center;
+    color: hsl(0, 0%, 7%)
+
+}
